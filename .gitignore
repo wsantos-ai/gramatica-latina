@@ -1,0 +1,7 @@
+# Livro (obra protegida por direitos autorais; ~70 MB)
+*.pdf
+
+# Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
