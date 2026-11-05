@@ -351,7 +351,7 @@
 
 ## Controle de progresso
 
-- [ ] Semana 1 (2 nov) — L1–4
+- [ ] Semana 1 (2 nov) — L1–4 · em andamento: Prefácio ✔, L1 ✔, L2 ✔
 - [ ] Semana 2 (9 nov) — L5–9
 - [ ] Semana 3 (16 nov) — L10–14
 - [ ] Semana 4 (23 nov) — L15–19
